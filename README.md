@@ -1,7 +1,5 @@
 Hello World!
 
-⚙ Desenvolvedor Full Stack formando em Ciência da Computação com ênfase em Engenharia de Software e Linguagens de Programação na UESB - Universidade Estadual do Sudoeste da Bahia. 
-
 ▶ Trabalho com planejamento, desenvolvimento e gestão de aplicações e produtos web, possuo interesse e conhecimentos nas seguintes áreas: 
 - Web Backend e Frontend (PHP, HTML, CSS, JavaScript, JSON, Ajax, XML)
 - Web CMS (Wordpress, Drupal, Moodle)
